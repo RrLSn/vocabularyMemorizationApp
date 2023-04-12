@@ -1,0 +1,11 @@
+*{
+  @apply m-0 p-0 box-border
+}
+
+.app{
+  @apply w-screen h-screen bg-[#f3f4f8] grid place-content-center
+}
+
+main{
+  @apply w-[50vw] h-[50vh] bg-white rounded-lg
+}
